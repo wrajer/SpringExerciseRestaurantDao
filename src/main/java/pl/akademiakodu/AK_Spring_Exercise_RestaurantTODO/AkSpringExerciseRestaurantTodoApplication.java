@@ -6,6 +6,7 @@ import pl.akademiakodu.AK_Spring_Exercise_RestaurantTODO.models.Meal;
 
 /**
  * Spring boot
+ * 
  */
 @SpringBootApplication
 public class AkSpringExerciseRestaurantTodoApplication {
